@@ -8,4 +8,8 @@
     height: 6000px;
     position: relative;
     transition: left 2s;
+    /*Let's assure that transition works on all browsers*/
+    -webkit-transition: left 2s;
+    -moz-transition: left 2s;
+    -o-transition: left 2s;
 }
