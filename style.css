@@ -6,4 +6,6 @@
 .image-container {
     width: 9000px;
     height: 6000px;
+    position: relative;
+    transition: left 2s;
 }
