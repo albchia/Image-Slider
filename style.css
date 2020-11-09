@@ -13,3 +13,7 @@
     -moz-transition: left 2s;
     -o-transition: left 2s;
 }
+
+.slider-image {
+    float: left;
+}
