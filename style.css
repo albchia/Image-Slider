@@ -16,6 +16,7 @@
     -webkit-transition: left 2s;
     -moz-transition: left 2s;
     -o-transition: left 2s;
+    -ms-transition: left 2s;
 }
 
 .slider-image {
