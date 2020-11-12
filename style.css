@@ -38,7 +38,7 @@
     background-color: white;
 }
 
-/*Add three id(s) for links in index.html which will target the image spans created 
+/*Add the seven id(s) for links in index.html which will target the image spans created 
 which in turn will target the image container where the actual images are located*/
 
 #slider-image-0:target ~ .image-container {
