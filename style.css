@@ -10,7 +10,7 @@
 }
 
 .image-container {
-    width: 2700px;
+    width: 7200px;
     height: 750px;
     position: relative;
     transition: left 2s;
@@ -31,8 +31,11 @@
 }
 
 .button-container {
-    top: -20px;
+    width: 1000px;
+    height: auto;
+    top: -30px;
     position: relative;
+    background-color: rgba(255, 255, 255, 0.5);
 }
 
 .slider-button {
@@ -62,7 +65,7 @@ which in turn will target the image container where the actual images are locate
     left: -2700px;
 }
 
-/*#slider-image-4:target ~ .image-container {
+#slider-image-4:target ~ .image-container {
     left: -3600px;
 }
 
@@ -76,4 +79,4 @@ which in turn will target the image container where the actual images are locate
 
 #slider-image-7:target ~ .image-container {
     left: -6300px;
-}*/
+}
