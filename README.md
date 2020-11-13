@@ -23,8 +23,6 @@ Here some screenshot of my _Image Slider_
 
 ![Image-slider-screenshot-3](https://user-images.githubusercontent.com/70691672/99084250-0060de00-25c7-11eb-9f39-002667bcb820.PNG)  
 
-
-
 ### Project Overview
 
 Title: _"Image Slider"_
