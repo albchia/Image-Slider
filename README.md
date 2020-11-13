@@ -35,4 +35,3 @@ This repository is a project created by myself during my trainings.
 Therefore, pull requests will not be accepted.
 
 > For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
-
