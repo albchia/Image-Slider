@@ -55,7 +55,7 @@ which in turn will target the image container where the actual images are locate
     left: -1600px;
 }
 
-#slider-image-3:target ~ .image-container {
+/*#slider-image-3:target ~ .image-container {
     left: -2400px;
 }
 
@@ -73,4 +73,4 @@ which in turn will target the image container where the actual images are locate
 
 #slider-image-7:target ~ .image-container {
     left: -5600px;
-}
+}*/
