@@ -21,6 +21,8 @@ Here some screenshot of my _Image Slider_
 
 ![Image-slider-screenshot-1](https://user-images.githubusercontent.com/70691672/99083934-8e889480-25c6-11eb-8e5f-991d4cae0b20.PNG)  ![Image-slider-screenshot-2](https://user-images.githubusercontent.com/70691672/99084096-cb548b80-25c6-11eb-8c07-97c0e6459a2e.PNG)
 
+![Image-slider-screenshot-3](https://user-images.githubusercontent.com/70691672/99084250-0060de00-25c7-11eb-9f39-002667bcb820.PNG)  
+
 
 
 ### Project Overview
