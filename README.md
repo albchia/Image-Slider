@@ -4,7 +4,7 @@ A nice image slider using HTML and CSS.
 
 This is one of the projects I realized during my training, to work and study doing practical exercises.
 
-[See full project](https://albchia.github.io/Animal-Trading-Card/card.html)
+[See full project](https://albchia.github.io/Image-Slider/)
 
 ## Table of Contents
 
