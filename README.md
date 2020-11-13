@@ -37,3 +37,7 @@ This repository is a project created by myself during my trainings.
 Therefore, pull requests will not be accepted.
 
 > For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## License
+
+Photos are Chiara's copyright and they are used as examples to build my own project.
