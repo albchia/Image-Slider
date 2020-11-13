@@ -1,6 +1,6 @@
 .slide-container {
-    width: 800px;
-    height: 600px;
+    width: 900px;
+    height: 750px;
     margin-left: auto;
     margin-right: auto;
     margin-top: auto;
@@ -10,8 +10,8 @@
 }
 
 .image-container {
-    width: 5600px;
-    height: 600px;
+    width: 2700px;
+    height: 750px;
     position: relative;
     transition: left 2s;
     /*Let's assure that transition works on all browsers*/
@@ -25,6 +25,9 @@
     float: left;
     margin: 0px;
     padding: 0px;
+    position: relative;
+    width: 900px;
+    height: 750px;
 }
 
 .button-container {
@@ -40,7 +43,7 @@
     background-color: white;
 }
 
-/*Add the seven id(s) for links in index.html which will target the image spans created 
+/*Add the id(s) for links in index.html which will target the image spans created 
 which in turn will target the image container where the actual images are located*/
 
 #slider-image-0:target ~ .image-container {
@@ -48,29 +51,29 @@ which in turn will target the image container where the actual images are locate
 }
 
 #slider-image-1:target ~ .image-container {
-    left: -800px;
+    left: -900px;
 }
 
 #slider-image-2:target ~ .image-container {
-    left: -1600px;
+    left: -1800px;
 }
 
-/*#slider-image-3:target ~ .image-container {
-    left: -2400px;
+#slider-image-3:target ~ .image-container {
+    left: -2700px;
 }
 
-#slider-image-4:target ~ .image-container {
-    left: -3200px;
+/*#slider-image-4:target ~ .image-container {
+    left: -3600px;
 }
 
 #slider-image-5:target ~ .image-container {
-    left: -4000px;
+    left: -4500px;
 }
 
 #slider-image-6:target ~ .image-container {
-    left: -4800px;
+    left: -5400px;
 }
 
 #slider-image-7:target ~ .image-container {
-    left: -5600px;
+    left: -6300px;
 }*/
