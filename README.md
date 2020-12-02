@@ -33,7 +33,7 @@ This project has been inspired by [@Clever Techie](https://www.youtube.com/chann
 
 ## Contributing
 
-This repository is a project created by myself during my trainings.
+This is the repository of a project created by myself during my trainings.
 Therefore, pull requests will not be accepted.
 
 > For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
